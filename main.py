@@ -32,7 +32,7 @@ import random
 conn = mysql.connector.connect(
     host="localhost",
     user="root",
-    password="root1234",
+    password="YOUR_PASSWORD",
     database="german_dictionary"
 )
 
